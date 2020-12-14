@@ -3,10 +3,9 @@
 ##  Im Tear, God of Greed
 ## Web Developer and Jew Destroyer
 
-[![](![continuousphp](https://img.shields.io/continuousphp/git-hub/slitwrist/slitwrist?color=Hello&label=I%20am%20god&logo=Hey&logoColor=purple&style=social))
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
+### <img src="https://media1.tenor.com/images/ce7570188188a466771fa24b277f339a/tenor.gif?itemid=3403691" width="50"> A little about me...  
 
 ```javascript
 const slitwrist = {
