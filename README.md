@@ -1,13 +1,12 @@
 <img align='right' src="https://steamuserimages-a.akamaihd.net/ugc/1004772116341269885/05B77298C783C4E94BFEAA27C19088AD63CC971C/" width="230">
 
-##  Im tear, god of greed
-## Web Developer and jew destroyer
+##  Im Tear, God of Greed
+## Web Developer and Jew Destroyer
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+[![](![continuousphp](https://img.shields.io/continuousphp/git-hub/slitwrist/slitwrist?color=Hello&label=I%20am%20god&logo=Hey&logoColor=purple&style=social))
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 ```javascript
 const slitwrist = {
