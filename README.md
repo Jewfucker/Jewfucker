@@ -13,7 +13,7 @@ const slitwrist = {
     askMeAbout: ["Telegram Destroyer", "Web Dev", "Fucking Discord Over"],
     technologies:{
         backEnd: ["nodejs", "golang", "python", "lua"],
-        fronEnd: ["god"],
+        fronEnd: ["go"],
         mobileApp: ["ionic","angular"],
         database: ["mongo","mySql"],
         serverless: ["mongo-realm","aws-lambda"],
